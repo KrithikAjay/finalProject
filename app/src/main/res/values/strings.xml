@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find the Freeze</string>
+    <string name = "country">Country : %s</string>
+    <string name = "capital">Capital : %s</string>
+    <string name = "population">Population: %s</string>
+    <string name = "continent">Continent : %s</string>
+</resources>
