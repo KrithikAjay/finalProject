@@ -30,14 +30,8 @@ class CountryDetailFragment : Fragment() {
 
 
         binding.detailViewModel = viewModel
-
         return binding.root
     }
 
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
-
-        // TODO: Use the ViewModel
-    }
 
 }
